@@ -1,2 +1,25 @@
-
-/* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content:space-between;
+}
+.eg1{
+	border:1px solid black;
+	width:130px;
+	height:130px;
+	background-color:green;
+	font-size:50px;
+}
+.eg2{
+	border:1px solid black;
+	width:130px;
+	height:130px;
+	background-color:red;
+	font-size:50px;
+}
+.eg3{
+	border:1px solid black;
+	width:130px;
+	height:130px;
+	background-color:blue;
+	font-size:50px;
+}
